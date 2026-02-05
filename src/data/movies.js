@@ -28,7 +28,7 @@ export const movies = [
     description: "An intense romantic musical that explores love, longing, and emotional sacrifice, set against a deeply poetic and musical narrative.",
     cast: "Dhanush, Kriti Sanon",
     posterUrl: "https://m.media-amazon.com/images/M/MV5BOGRjMzM1ZmUtMjk0Yi00NzA0LTk3ZWYtZWM3MWY3M2EwMjBhXkEyXkFqcGc@._V1_.jpg",
-    downloadLink: "https://drive.google.com/file/d/YOUR_DRIVE_LINK/view?usp=drive_link" // Replace with Drive Link
+    downloadLink: "https://drive.google.com/file/d/19Gja76_a-tl888RTzR8w1F9eSGSBMxGy/view?usp=drive_link" // Replace with Drive Link
 }
 
 
