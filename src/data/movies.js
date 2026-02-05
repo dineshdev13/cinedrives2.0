@@ -19,6 +19,17 @@ export const movies = [
     cast: "Vikram Prabhu, LK Akshay Kumar, Anishma Anilkumar, Ananda Thambirajah, Harishankar Narayanan, Remya Suresh, Siju Wilson, Munnar Ramesh, P. L. Thenappan",
     posterUrl: "https://m.media-amazon.com/images/M/MV5BZTU0ZjE1ZTktMmQ4Ni00NThlLWI5OTUtNzMxMWEzMDYyZWY5XkEyXkFqcGc@._V1_.jpg",
     downloadLink: "https://drive.google.com/file/d/YOUR_DRIVE_LINK/view?usp=drive_link" // Replace with Drive Link
+    },
+    {
+    id: 3,
+    title: "Tere Ishk Mein",
+    year: 2025,
+    genre: "Romance, Musical, Drama",
+    description: "An intense romantic musical that explores love, longing, and emotional sacrifice, set against a deeply poetic and musical narrative.",
+    cast: "Dhanush, Kriti Sanon",
+    posterUrl: "https://m.media-amazon.com/images/M/MV5BOGRjMzM1ZmUtMjk0Yi00NzA0LTk3ZWYtZWM3MWY3M2EwMjBhXkEyXkFqcGc@._V1_.jpg",
+    downloadLink: "https://drive.google.com/file/d/YOUR_DRIVE_LINK/view?usp=drive_link" // Replace with Drive Link
 }
+
 
 ];
