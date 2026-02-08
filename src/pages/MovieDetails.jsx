@@ -226,17 +226,57 @@ const MovieDetails = () => {
         @media (max-width: 900px) {
           .details-grid {
             grid-template-columns: 1fr;
-            gap: 40px;
+            gap: 50px;
+            padding-bottom: 60px;
           }
           .poster-col {
-            max-width: 300px;
+            max-width: 320px;
+            width: 80%; /* Responsive width */
             margin: 0 auto;
+            transform: translateY(0); /* Reset any specific transforms */
           }
           .info-col {
             text-align: center;
+            align-items: center; /* Center align flex items */
+          }
+          .info-col h1 {
+            font-size: 3.5rem; /* Smaller title on tablet/mobile */
           }
           .meta {
             justify-content: center;
+            flex-wrap: wrap; /* Allow wrapping on small screens */
+            gap: 10px;
+          }
+          .description {
+            font-size: 1.2rem; /* Slightly larger for readability on touch */
+            text-align: center; /* Center text for editorial feel */
+            padding: 0 10px;
+          }
+          .download-btn {
+            width: 100%; /* Full width button for easy tapping */
+            max-width: 300px;
+            padding: 18px 30px; /* Larger touch target */
+          }
+        }
+
+        @media (max-width: 480px) {
+          .content {
+            padding-top: 20px; 
+          }
+          .info-col h1 {
+            font-size: 2.8rem;
+          }
+          .poster-col {
+             width: 75%;
+          }
+          .back-btn {
+             margin-bottom: 15px;
+          }
+          .meta {
+            font-size: 1rem;
+          }
+          .genre {
+             font-size: 1.5rem;
           }
         }
       `}</style>
