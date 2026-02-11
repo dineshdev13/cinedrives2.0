@@ -174,4 +174,159 @@ export const movies = [
     downloadLink:
       "https://shiny-bird-d62b.5gkwwmjk.workers.dev/?download=5aae0613ad24c6cd94457257096a1365%3Ad050ee690ef8728e694233cb9dd4d200117bb5f34bb4b88f5ce3c1aa3355c5a5e942dcb81676b43498206b4a68be6718de1567b94b123675b548ecb3e56abb683065ecea5ce8a5b969095a6fc38fab1d6d1967135957fa6fc4b64290677f0a79b882c5fdac404571d637c9e0b375d5d16b06171c1a391a3e9f95fc3f5fed50dfe89255a59b91ba3412e511aa458679a36e7d2ffcf627aab91794821c81c1d60aed61846c69543b1ad80f91634b5ae9a1"
   }
+  {
+  id: 15,
+  title: "Kiss",
+  year: 2025,
+  genre: "Romance, Drama",
+  description:
+    "A youthful romantic story exploring attraction, heartbreak, and emotional growth.\nLove begins playfully but turns serious as reality challenges the couple.",
+  cast: "Kavin, Preethi Asrani",
+  posterUrl: "https://m.media-amazon.com/images/M/MV5BZjM0NDQ3NmItODdmNy00NTU4LTkyYjItZjQwOTBkOTZhMDc2XkEyXkFqcGc@._V1_.jpg",
+  downloadLink: "https://scloud.snub-tiptop-half.workers.dev/?download=a8b8227105d54f6ecd951989bb48092c%3A8aac09a7ba733d7e701b89fb4b3df1294a3f517a6b88dad50f2780aeec2da9c8d11b66f3a23c51a32663b5f007e808bd46f99a767e854c0b7a131f521a5d086c7b38f955ea4a3a97c74e6e99d315b26e322fced3e564388b8c3d3b959dba2295e798d5e0c3fe6768cd3d1c5d4d555276aa203aec96e2d09dde692393f8c5ac129ec7b07087321c229f13df1ca6f711d0b69e5e680440a08a398bc86f90b8a50170854ea48ae7929d59c5d7083c95a502"
+},
+{
+  id: 16,
+  title: "Hridayam",
+  year: 2022,
+  genre: "Romance, Drama",
+  description:
+    "A coming-of-age journey following a young man through college, love, and life changes.\nFriendship, heartbreak, and maturity shape his emotional growth.",
+  cast: "Pranav Mohanlal, Kalyani Priyadarshan, Darshana Rajendran",
+  posterUrl: "https://m.media-amazon.com/images/M/MV5BYTQ3Y2JmNTItNTdkNC00YTlhLWIyMTItOTRiYmFiODJjZmYxXkEyXkFqcGc@._V1_.jpg",
+  downloadLink: "https://scloud-waterfall-406.sleek-fax-buckle.workers.dev/?download=02710df73c4998590b5139483b8fcb9a%3Af4e5b1b56ec3b96683c72ebc67bce937ab7dc9f927ddd4b679540ebc8284f82e62f63854cd5510ac346b8c3ebf58aa8954484a54376536b3719a9ab507e3f79faad9105bd47a48e3700040bf30852badaf64ae759ee3ec969222b1737a256fecdafd32f55ff5803a7bd9b83dc9a56e8ca9992a4e551eac819ed80448ce0cf91fc29203fc2d77b49b3d127b5330b5ce81278716456225a4b1b19e781832f5300986adcf2e95d7a9342098283ee9329c4c"
+},
+{
+  id: 17,
+  title: "Hi Nanna",
+  year: 2023,
+  genre: "Romance, Family, Drama",
+  description:
+    "A heartfelt father-daughter bond hides a deep romantic past.\nMemories unfold as love and truth reconnect lost relationships.",
+  cast: "Nani, Mrunal Thakur, Kiara Khanna",
+  posterUrl: "https://upload.wikimedia.org/wikipedia/en/d/d7/Hi_Nanna_poster.jpg",
+  downloadLink: "https://t.me/cinedrivesco/21"
+},
+{
+  id: 18,
+  title: "8 Vasantalu",
+  year: 2025,
+  genre: "Romance, Drama",
+  description:
+    "A poetic love story unfolding across eight emotional phases of life.\nTime, memories, and changing seasons redefine relationships.",
+  cast: "Ananthika Sanilkumar, Ravi Theja Duggirala",
+  posterUrl: "https://m.media-amazon.com/images/M/MV5BZDA2YTQyY2YtNGNiMC00MTUwLWI4NDEtZmE3M2JlZmM0NGZmXkEyXkFqcGc@._V1_.jpg",
+  downloadLink: "https://t.me/cinedrivesco/23"
+},
+{
+  id: 19,
+  title: "Yellow",
+  year: 2025,
+  genre: "Drama",
+  description:
+    "A character-driven story exploring identity, struggle, and emotional resilience.\nThe narrative reflects how choices shape a person’s inner world.",
+  cast: "Poornima Ravi, Namita, Prabhu Solomon",
+  posterUrl: "https://m.media-amazon.com/images/M/MV5BYjhiNGQ1OTEtMTU3NC00ZWI4LWIzOWMtOTc0ZmIyOTQ3MDZiXkEyXkFqcGc@._V1_.jpg",
+  downloadLink: "https://shiny-bird-d62b.5gkwwmjk.workers.dev/?download=6028c3e44ede23605b7a3f966a91970c%3A40316843d65b6d59ee691ea76a57e948c4862c3fbbdba82ff87f2187cdba7c49b134a0f7885240c784d46422a6f94b7158cd0ead37b387a4a8e8489da81be102e1fb3504bb69bf6f740b8893e069600e24e7e7492cd1222463fba97ef4d72cc5457326cfde003cb8a3fc6464603f24d6fc0c73674f1ee3d81308aa290cf642be317e15234c479aedb6cf21608b951587f8d5c23e00411000fa12875d01e6ececd0b5f178c6bce2f1affb2b5147262006"
+},
+{
+  id: 20,
+  title: "Stephen",
+  year: 2025,
+  genre: "Action, Drama",
+  description:
+    "A powerful character study of a man navigating loyalty, power, and redemption.\nPast mistakes return as he fights to rebuild his future.",
+  cast: "Smruthi Venkat, Michael Thangadurai, Harija",
+  posterUrl: "https://m.media-amazon.com/images/M/MV5BMTdiOTNhNjItMzk3ZC00YTBlLWE2YjQtZDQ4ZjYyOWNjZjA4XkEyXkFqcGc@._V1_.jpg",
+  downloadLink: "https://shiny-bird-d62b.5gkwwmjk.workers.dev/?download=3949cd86a7cf37a5d64aa01f82f51273%3A87e4fd8bf52814a1636fc5d066e2ca0e4a9a284e5b9825ba2b57a4fca4b8f831c7393984143d616b384f34c1fb2436837ef1b31ed9dff04a8cc45a3b4c9142b12f8cda0a75113f19f435904dd43c69f35ee0218e8c508b98ea96a0105b36dd68427b711a234101beddf4e95c50a9a58c724b24c229d3f1bfb4178227942efd6323b20d1412703e573c357ed5904df98ba5899a1c48fdb3407b3cee1735360fc08695055f48a3d3563f09dee51b108712"
+},
+{
+  id: 21,
+  title: "Aaromaley",
+  year: 2025,
+  genre: "Romance, Drama",
+  description:
+    "A gentle love story filled with emotional moments and heartfelt connections.\nMusic and memories drive a journey of longing and reunion.",
+  cast: "Kishen Das, Harshath Khan, Shivathmika, Namritha, Sandhya",
+  posterUrl: "https://m.media-amazon.com/images/S/pv-target-images/736c5bf8970fbc58799d6460b2f4fb691d8163c2e53b929b33d90bac4c780006.jpg",
+  downloadLink: "https://scloud.monthly-romp-skier.workers.dev/?download=7ccb375acb36d59198c1e2403bafe5a1%3Ab76251135d2048eaf171db3449a5ee9a979a7d0fc9dfabbabdec6da629033c2358e1e14dfb5ea632d25c08429e47748746949c1a985decc317340538b07cac85b97879f1341c96109dccdc1685cd6e59c7c68989a87bdd0dd6af7e9b4883ea900421d20609c0525d0aa8df39b54ac606bf400ecd6bf3f3ec5c9512a18839503ec7d07496dfec85879c210d0f88391d84e63cf6272031056ec789f058a66350f9a353c69f0248de7c2c4048d87393d20c"
+},
+{
+  id: 22,
+  title: "Bromance",
+  year: 2025,
+  genre: "Comedy, Drama",
+  description:
+    "A humorous take on male friendship and emotional bonding.\nUnexpected events test loyalty and redefine the meaning of brotherhood.",
+  cast: "Arjun Ashokan, Mathew Thomas",
+  posterUrl: "https://m.media-amazon.com/images/M/MV5BYjNjZWY4OTEtMmMwOC00OWVlLTkyYjktMDg0MWZhYzhiNzc0XkEyXkFqcGc@._V1_.jpg",
+  downloadLink: "https://scloud.snub-tiptop-half.workers.dev/?download=32658cef43e9176bc14293b7dd846dfa%3A1aad00350757f026230085899b09c9d883e5e9470e1a9ec2026c51affa2275d76c1dbe4fe4125a3f069c0c16ba97be46cf84d013d28d2a78ed8187aaf892b30f583308e8334867e73e04fd5d2a228ea28bfde281bfe30810bee4f7130178ff154db41d0ddd27df8ee61a933c20a881578c8f88f791bbd98d2ed39817e6ca73d687ac61526ff4fd9bde977c15a6fd7dab58e6e67c468c3f48a8130725688270ed8cbe85aeac82d60b4ea8192452bd057f"
+},
+{
+  id: 23,
+  title: "Lokah Chapter 1: Chandra",
+  year: 2025,
+  genre: "Fantasy, Action",
+  description:
+    "A mythological fantasy exploring power, destiny, and ancient forces.\nThe first chapter introduces a world where legends shape reality.",
+  cast: "Kalyani Priyadarshan, Naslen",
+  posterUrl: "https://m.media-amazon.com/images/M/MV5BNWFkMGFmNTQtOTUwYS00NDFkLWFkNDAtZjA4ODliYTc2MmFmXkEyXkFqcGc@._V1_.jpg",
+  downloadLink: "https://scloud.snub-tiptop-half.workers.dev/?download=7806123b41a061ab195d03259f7c8297%3Ae05fcf10013fd57d202da6936a3149ef8fd84889f77bd5d6671b149713ca603b0927724a395a9adc5fa20fdfbfdca4c03c7f99f75e2afc73d34200f3be2eeb2cf798b6f762d648fcec67096e8727bf70d5b85457ddaf7200f53b470bc6b6415cba6530d5db1df60db087dbd774a491596b1188b1e330557a4e75408ca0c01e889bd1aa5ccc2196b335a966b78f61c984dcc2a3503e70333adf1ed6a1d0da1259a373fc9dbd272588d6eb3eb76c328ea0"
+},
+{
+  id: 24,
+  title: "Aan Paavam Pollathathu",
+  year: 2025,
+  genre: "Comedy, Drama",
+  description:
+    "A lighthearted story blending humor with village-style emotional drama.\nSimple misunderstandings grow into chaotic yet funny situations.",
+  cast: "Rio Raj, Malavika Manoj, RJ Vigneshkanth",
+  posterUrl: "https://m.media-amazon.com/images/S/pv-target-images/8ac4edb23ea664abd69d6b873077371720425c5c7cb7cb4a21ff2e50adf04db7.jpg",
+  downloadLink: "https://sparkling-sound-8a68.gusto-gusto-veal.workers.dev/?download=d074e5a814fc544d723724c58cb1c663%3A671aa8b65efb3df6d9efe47f8bbc1ccc211855ee202790ee07024d4fcdebef705c1833b024e239817a281266c58bb3088f029476b6795d8b79607395b6f10187a4a3bcd771036346d890f26d73cc9fcb3fd886f9cf48af6963d0763996ed08fa857b4cbe82d3696807e3c78138e52d4c9f17e0bd9686c6bd71099c11bee743a46959e6398ff1f2e4947f54f4755dc220c626a52df0f5e3309bbe1c0c8bbaf1ab5aa3609749d0269ab0419a42df228d55"
+},
+{
+  id: 26,
+  title: "Ziddi Ishq",
+  year: 2025,
+  genre: "Romance, Drama",
+  description:
+    "A stubborn love story driven by passion, ego, and emotional challenges.\nTwo hearts struggle between pride and true affection.",
+  cast: "Aaditi Pohankar, Shaji Choudhary",
+  posterUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Ziddi_Ishq.jpg/250px-Ziddi_Ishq.jpg",
+  downloadLink: "https://t.me/cinedrivesco/4"
+},
+{
+  id: 27,
+  title: "Shakthi Thirumagan",
+  year: 2025,
+  genre: "Action, Drama",
+  description:
+    "A mass-action entertainer centered on power, family pride, and revenge.\nA fearless hero rises against injustice to protect his people.",
+  cast: "Vijay Antony",
+  posterUrl: "https://m.media-amazon.com/images/M/MV5BM2UxYjJjYzgtNzAyMi00MDFiLWI0NGQtNGUzY2IzMTMzZmZjXkEyXkFqcGc@._V1_.jpg",
+  downloadLink: "https://t.me/cinedrivesco/25"
+},
+{
+  id: 28,
+  title: "Farzi S01 EP01-08",
+  year: 2023,
+  genre: "Crime, Thriller",
+  description:
+    "A brilliant artist gets pulled into the dangerous world of counterfeit money.\nA cat-and-mouse chase begins between crime and law enforcement.",
+  cast: "Shahid Kapoor, Vijay Sethupathi, Raashii Khanna, Kay Kay Menon",
+  posterUrl: "https://m.media-amazon.com/images/M/MV5BNDY2OWMxNzgtZGQ4Ny00ODI3LTk3MTAtYjM4N2U4ZGI3ZGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  downloadLink: "https://t.me/cinedrivesco/27"
+},
+{
+  id: 29,
+  title: "Court",
+  year: 2025,
+  genre: "Legal Drama",
+  description:
+    "A gripping courtroom drama examining justice, truth, and moral complexity.\nEvery argument reveals hidden layers of society and law.",
+  cast: "Priyadarshi Pullikonda, Sridevi, Harsh Roshan",
+  posterUrl: "https://upload.wikimedia.org/wikipedia/en/f/ff/Court_-_State_Vs_A_Nobody.jpg",
+  downloadLink: "https://sparkling-sound-8a68.gusto-gusto-veal.workers.dev/?download=328133570bb7a631c20a312a2a03c483%3A0ae59a66d17609d4157ac9fb629df8a2eb7a9e2657532cc4dc31c8c1893009cb685bc4916491f870de07a924a67cd9c8ac106602b477e2b656ee57220c3b3e637219a7671e4cd2c651c3048456c7b6fe37648d6ebbf933c7e080b631ada53e74241178b087513d19cb5407c3329d87f0adf2ea6d19c31c278550052a05eb1b80cb029eea2937b73450b73cbe3fc944c8832c1e9bc8d4b4444a14b6b139cfd1b073bf64b3e7998d974588494592c4fc35"
+},
+
 ];
